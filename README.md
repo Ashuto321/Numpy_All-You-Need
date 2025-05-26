@@ -6,6 +6,7 @@ What's Inside?
 
 ✅ Beginner-friendly code examples
 
+
 🧠 Clear notes on NumPy attributes and functions
 
 🔍 Simple explanations with output previews
