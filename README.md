@@ -1,5 +1,6 @@
 📘 NumPy for Beginners 🚀
 
+
 Welcome to NumPy for Beginners – your first step into the world of fast, powerful numerical computing with Python! 🐍🔢
 
 What's Inside?
