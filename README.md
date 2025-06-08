@@ -4,6 +4,7 @@ Welcome to NumPy for Beginners – your first step into the world of fast, power
 
 What's Inside?
 
+
 ✅ Beginner-friendly code examples
 
 🧠 Clear notes on NumPy attributes and functions
